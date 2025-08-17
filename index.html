@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zen Haven</title>
+    <!-- Manifest and theme colour for PWA. These tags are harmless when the
+         PWA feature flag is disabled. The actual service worker is
+         registered conditionally via vite-plugin-pwa. -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#00897B" />
+    <meta name="robots" content="index, follow" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+    <script type="module" src="/client/App.tsx"></script>
+  </body>
+</html>

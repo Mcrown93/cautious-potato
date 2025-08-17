@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Point crawlers at our sitemap so that they discover all routes. The
+# sitemap is generated at build time from routes.generated.ts. See
+# scripts/generate-sitemap.ts for details.
+Sitemap: /sitemap.xml

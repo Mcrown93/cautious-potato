@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Zen Haven"
+  },
+  "pages": {
+    "home": {
+      "title": "Startseite - Zen Haven",
+      "description": "Willkommen bei Zen Haven, Ihrer Webagentur."
+    },
+    "services": {
+      "title": "Leistungen - Zen Haven",
+      "description": "Entdecken Sie unsere angebotenen Dienstleistungen."
+    },
+    "method": {
+      "title": "Methode - Zen Haven",
+      "description": "Unser bewährter Prozess von der Entdeckung bis zum Wachstum."
+    },
+    "portfolio": {
+      "title": "Portfolio - Zen Haven",
+      "description": "Durchstöbern Sie unsere Fallstudien und Erfolge."
+    },
+    "pricing": {
+      "title": "Preise - Zen Haven",
+      "description": "Transparente Preise für jedes Budget."
+    },
+    "about": {
+      "title": "Über uns - Zen Haven",
+      "description": "Erfahren Sie mehr über unser Team und unsere Mission."
+    },
+    "contact": {
+      "title": "Kontakt - Zen Haven",
+      "description": "Nehmen Sie noch heute Kontakt mit uns auf."
+    },
+    "quote": {
+      "title": "Angebot anfordern - Zen Haven",
+      "description": "Fordern Sie ein maßgeschneidertes Angebot für Ihr Projekt an."
+    },
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Die angeforderte Seite wurde nicht gefunden."
+    }
+    ,
+    "blog": {
+      "title": "Blog - Zen Haven",
+      "description": "Einblicke und Geschichten von Zen Haven."
+    },
+    "article": {
+      "title": "Artikel",
+      "description": "Lesen Sie diesen Artikel."
+    },
+    "resources": {
+      "title": "Ressourcen - Zen Haven",
+      "description": "Ausgewählte Tools, Vorlagen und Leitfäden."
+    },
+    "docs": {
+      "title": "Dokumente - Zen Haven",
+      "description": "Dokumentation und technische Leitfäden."
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie - Zen Haven",
+      "description": "Erfahren Sie, wie wir Ihre Informationen sammeln und verwenden."
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie - Zen Haven",
+      "description": "Verstehen Sie, wie wir Cookies auf unserer Website verwenden."
+    },
+    "accessibility": {
+      "title": "Barrierefreiheit - Zen Haven",
+      "description": "Unser Engagement, die Website für alle zugänglich zu machen."
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen - Zen Haven",
+      "description": "Lesen Sie die Bedingungen und Konditionen unserer Website."
+    }
+  },
+  "components": {
+    "header": {
+      "services": "Leistungen",
+      "method": "Methode",
+      "portfolio": "Portfolio",
+      "pricing": "Preise",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "viewWork": "Arbeiten ansehen",
+      "requestQuote": "Angebot anfordern",
+      "language": "Sprache",
+      "theme": "Thema",
+      "dark": "Dunkel",
+      "light": "Hell",
+      "openMenu": "Hauptmenü öffnen",
+      "closeMenu": "Hauptmenü schließen"
+    },
+    "footer": {
+      "sitemap": "Seitenverzeichnis",
+      "resources": "Ressourcen",
+      "legal": "Rechtliches",
+      "contacts": "Kontakte",
+      "newsletter": {
+        "title": "Abonnieren Sie unseren Newsletter",
+        "placeholder": "Ihre E‑Mail-Adresse",
+        "submit": "Abonnieren"
+      }
+    },
+    "newsletter": {
+      "label": "E‑Mail-Adresse",
+      "submit": "Abonnieren",
+      "success": "Vielen Dank für Ihr Abonnement!",
+      "error": "Bitte geben Sie eine gültige E‑Mail ein."
+    }
+  }
+}

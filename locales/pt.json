@@ -1,0 +1,111 @@
+{
+  "app": {
+    "name": "Zen Haven"
+  },
+  "pages": {
+    "home": {
+      "title": "Início - Zen Haven",
+      "description": "Bem-vindo à Zen Haven, sua agência web."
+    },
+    "services": {
+      "title": "Serviços - Zen Haven",
+      "description": "Descubra os serviços que oferecemos."
+    },
+    "method": {
+      "title": "Método - Zen Haven",
+      "description": "Nosso processo comprovado do descobrimento ao crescimento."
+    },
+    "portfolio": {
+      "title": "Portfólio - Zen Haven",
+      "description": "Veja nossos estudos de caso e histórias de sucesso."
+    },
+    "pricing": {
+      "title": "Preços - Zen Haven",
+      "description": "Preços transparentes para todos os orçamentos."
+    },
+    "about": {
+      "title": "Sobre nós - Zen Haven",
+      "description": "Saiba mais sobre nossa equipe e missão."
+    },
+    "contact": {
+      "title": "Contato - Zen Haven",
+      "description": "Entre em contato conosco hoje mesmo."
+    },
+    "quote": {
+      "title": "Solicitar orçamento - Zen Haven",
+      "description": "Solicite um orçamento personalizado para o seu projeto."
+    },
+    "notFound": {
+      "title": "Página não encontrada",
+      "description": "A página solicitada não foi encontrada."
+    }
+    ,
+    "blog": {
+      "title": "Blog - Zen Haven",
+      "description": "Insights e histórias da Zen Haven."
+    },
+    "article": {
+      "title": "Artigo",
+      "description": "Leia este artigo."
+    },
+    "resources": {
+      "title": "Recursos - Zen Haven",
+      "description": "Ferramentas, modelos e guias selecionados."
+    },
+    "docs": {
+      "title": "Documentos - Zen Haven",
+      "description": "Documentação e guias técnicos."
+    },
+    "privacy": {
+      "title": "Política de privacidade - Zen Haven",
+      "description": "Saiba como coletamos e usamos suas informações."
+    },
+    "cookies": {
+      "title": "Política de cookies - Zen Haven",
+      "description": "Entenda como usamos cookies em nosso site."
+    },
+    "accessibility": {
+      "title": "Acessibilidade - Zen Haven",
+      "description": "Nosso compromisso em tornar o site acessível a todos."
+    },
+    "terms": {
+      "title": "Termos de serviço - Zen Haven",
+      "description": "Leia os termos e condições do nosso site."
+    }
+  },
+  "components": {
+    "header": {
+      "services": "Serviços",
+      "method": "Método",
+      "portfolio": "Portfólio",
+      "pricing": "Preços",
+      "about": "Sobre nós",
+      "contact": "Contato",
+      "viewWork": "Ver trabalhos",
+      "requestQuote": "Solicitar orçamento",
+      "language": "Idioma",
+      "theme": "Tema",
+      "dark": "Escuro",
+      "light": "Claro",
+      "openMenu": "Abrir menu principal",
+      "closeMenu": "Fechar menu principal"
+    },
+    "footer": {
+      "sitemap": "Mapa do site",
+      "resources": "Recursos",
+      "legal": "Legal",
+      "contacts": "Contatos",
+      "newsletter": {
+        "title": "Assine nossa newsletter",
+        "placeholder": "Seu endereço de email",
+        "submit": "Assinar"
+      }
+    },
+    "newsletter": {
+      "label": "Endereço de email",
+      "submit": "Assinar",
+      "success": "Obrigado por assinar!",
+      "error": "Digite um email válido."
+    }
+  }
+}
